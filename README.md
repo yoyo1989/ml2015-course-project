@@ -23,5 +23,7 @@
   
 - Publication:
   - Some results from this project are used in a paper 
+  
   [Comparison of Diversity of Type IIb Supernovae with Asymmetry in Cassiopeia A Using Light Echoes](http://iopscience.iop.org/article/10.3847/0004-637X/830/2/73/meta) 
+  
   by *Kieran Finn, Federica B. Bianco, Maryam Modjaz, Yuqian Liu, and Armin Rest*, which is published in *The Astrophysical Journal*.
